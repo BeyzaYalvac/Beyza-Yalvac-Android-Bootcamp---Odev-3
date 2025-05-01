@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Bootcamp Odev 3</string>
+    <string name="title">Black T-Shirt</string>
+    <string name="cardButton">Add to cart</string>
+    <string name="money">125.35$</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Bootcamp Odev 3</string>
+    <string name="title">Siyah T-Shirt</string>
+    <string name="cardButton">Sepete Ekle</string>
+    <string name="money">4.824,72 TL</string>
+</resources>
